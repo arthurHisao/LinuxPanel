@@ -1,2 +1,2 @@
 # LinunxPanel
-Easy Linux melhorado
+Painel Facilitador
