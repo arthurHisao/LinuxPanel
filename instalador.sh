@@ -38,10 +38,9 @@ then
 else
 	echo "Para funcionar alguns recursos será necessário instalar "
 	echo "alguns programas"
+	#atualizando os repositorios
 	sudo apt-get update && apt-get upgrade
-	sudo apt-get install lxtask
-	sudo apt-get install pcmanfm
-	sudo apt-get install lxterminal
+	#instalando o java
 	sudo apt-get install default-jre
 	sleep 1	
 	clear
