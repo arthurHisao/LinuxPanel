@@ -42,6 +42,8 @@ else
 	sudo apt-get update && apt-get upgrade
 	#instalando o java
 	sudo apt-get install default-jre
+	#instalando o sensor de temperatura
+	sudo apt-get install lm-sensors
 	sleep 1	
 	clear
 	echo "$dir Não existe em seguida será criado a pasta"
