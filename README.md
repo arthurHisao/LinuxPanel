@@ -1,4 +1,5 @@
 # LinuxPanel
-Um Painel Facilitador
 
-Ainda está em melhoramento, caso haja algum bugs por favor me avisar 
+Um Painel Facilitador com botões de diversas opções.
+
+Ainda está em melhoramento, funciona no ubuntu e estou implementando algumas funções de outras distros. 
